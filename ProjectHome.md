@@ -1,0 +1,1 @@
+RecaptchaFacebox is a jQuery plugin that combines the form validation functionality of Recaptcha with the modal window capability of Facebox, allowing you to efficiently define modal Recaptcha windows for your forms. Pages with multiple forms can share the same window for validation with little effort.
